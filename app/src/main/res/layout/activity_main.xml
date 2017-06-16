@@ -34,7 +34,7 @@
         android:id="@+id/text03"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="あいうえお"
         app:layout_constraintBottom_toBottomOf="@id/text02"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
